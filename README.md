@@ -1,2 +1,2 @@
-# JSClub's Basic Python training
-This repo contains the tutorial slide, examples written in Python and keys to exercises.
+# JS Club's basic Python training
+This repo contains the examples in slide and keys to exercises, all written in Python!
